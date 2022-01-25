@@ -1,2 +1,2 @@
-# vendingMachine
+# VendingMachine
 Vending Machine Console Application
